@@ -17,7 +17,7 @@ body {
   --font-size-60px: clamp(40px, 4.166666666666667vw, 60px);
   --font-size-40px: clamp(30px, 2.7777777777777777vw, 40px);
   --font-size-25px: clamp(18px, 1.7361111111111112vw, 25px);
-  --font-size-16px: clamp(12px, 1.1111111111111112vw, 16px);
+  --font-size-16px: clamp(14px, 1.1111111111111112vw, 16px);
 
   /* colors */
   --clr-black: #181818;
