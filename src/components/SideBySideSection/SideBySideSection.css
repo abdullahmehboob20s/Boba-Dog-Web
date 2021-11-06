@@ -1,5 +1,6 @@
 .side-by-side-wrapper {
   position: relative;
+  overflow-x: hidden;
 }
 .side-by-side-section {
   display: flex;
